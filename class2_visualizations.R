@@ -1,3 +1,6 @@
+# Import Excel spreadsheet from Kaggle and name the dataframe as 'survey_xlsx_cleaned':
+# https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016
+
 # install missing pkgs only
 packages <- c(
   "tidyverse","readxl","ggbeeswarm","GGally","ggridges",
